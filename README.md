@@ -1,8 +1,7 @@
 ## TEAMLAB
-### 파이썬을 활용한 선형대수학 - NumPy와 SciPy의 활용 스터디 레퍼지토리입니다.
-#### 섹션 3까지 개인공부
+### 선형대수학개론 스터디 레퍼지토리입니다.
 #### 해당 날짜의 강의를 보고 할당된 강의 발표자료 준비
-[강의 보기](https://www.inflearn.com/course/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99#)
+[강의 보기](https://www.inflearn.com/course/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%EA%B0%9C%EB%A1%A0#)
 
 |Section| Lecture | Runtime | Presenter | Date | ppt | code |
 | :-: | :- | :-:| :-: | :-: | :-: | :-: |
